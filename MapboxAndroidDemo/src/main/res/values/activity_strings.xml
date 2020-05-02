@@ -475,4 +475,6 @@
     <!-- Circle icon toggling on click-->
     <string name="tap_on_map_to_toggle_instruction">Tap on a circle and then marker to toggle. Tap elsewhere to reset to circles.</string>
 
+    <!-- Two-person meetup location isochrone within  -->
+    <string name="drag_faces_instruction">Tap on, hold, and drag a face to move it to a new location</string>
 </resources>
